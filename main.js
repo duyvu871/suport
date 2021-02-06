@@ -1,3 +1,4 @@
+
 console.log('hello')
 /// kiểu dữ liệu trong javascript
 // boolen:true
