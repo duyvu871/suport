@@ -28,3 +28,4 @@ getValueInput.onblur = (e)=>{
         find.forEach((element,index)=> { git({...element,id:index}) });
     }else git(undefined);
 }
+//////
